@@ -39,8 +39,10 @@
       position: relative;
       padding-left: 40%;
       min-height: 40px;
-      
-   }
+      }
+      tr:nth-last-of-type(odd){
+         background-color: rgb(255,255,178);
+      }
  }
 
 
