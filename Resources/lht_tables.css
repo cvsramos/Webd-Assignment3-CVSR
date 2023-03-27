@@ -88,4 +88,15 @@
       background-color: rgba(232,214,148,0.6);
       box-shadow: inset 0px 0px 20px gray;
    }
+   caption{ 
+      caption-side: top;
+      text-align: center;
+      padding-bottom: 10px;
+      font-size: 1.2em;
+      letter-spacing: 3px;
+   }
+   thead th{
+      color: white;
+      background-color: rgba(154,64,3);
+   }
 }
